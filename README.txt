@@ -9,7 +9,7 @@ Práctica 03: Sala de minijuegos VR
 - Bolos: se agarra y lanza la bola para derribar los bolos. Blueprints: BP_BolaBolos, BP_Bolo.
 - Wreck-It Ralph: se rompe un objeto fracturado con un martillo. Elementos: Geometry Collection y BP_Martillo.
 - Mr. Potato: se sueltan piezas sobre el cuerpo y se quedan acopladas. Blueprints: BP_Cuerpo, BP_Pieza.
-- Dardos: se lanza el dardo, se clava en la diana y el marcador muestra los puntos. Blueprints: BP_Dardo, BP_Diana.
+- Dardos: se lanza el dardo, se clava en la diana. Blueprints: BP_Dardo, BP_Diana.
 
 ## Valores físicos
 - Bola: 6 kg (CCD activado)
